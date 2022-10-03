@@ -1,0 +1,29 @@
+body {
+    background-color: #6CEEA5;
+  }
+
+.teksts{
+    font-family: 'Common Pixel', sans-serif;
+    text-align: center;
+    font-size: 140%;
+}
+
+h1{
+    position: absolute;
+    left: 20%;
+    top: 35%;
+}
+
+h3{
+    position: absolute;
+    left: 20%;
+    top: 40%;
+}
+img{
+    position: absolute;
+    left: 50%;
+    width: 20%;
+    top: 20%;
+
+}
+
