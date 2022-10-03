@@ -1,5 +1,6 @@
 body {
     background-color: #6CEEA5;
+    margin: 0px;
   }
 
 .teksts{
@@ -24,6 +25,14 @@ img{
     left: 50%;
     width: 20%;
     top: 20%;
+}
 
+.header{
+    height: 55px;
+    width: 100%;
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 30px;
 }
 
